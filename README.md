@@ -1,1 +1,1 @@
-# 30DaysOfNext
+# 30DaysOfNextJS
