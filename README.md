@@ -1,4 +1,4 @@
-# 30DaysOfNextJS
+# IntroToNextJS
 
 Next.js is a React-based open-source framework used for building server-side rendered (SSR) web applications. It enables developers to create dynamic web pages with features such as code splitting, server-side rendering, and automatic static optimization.
 
